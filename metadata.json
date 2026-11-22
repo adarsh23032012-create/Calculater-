@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A sleek calculator that discreetly unlocks an AES-256 encrypted vault for hiding and managing private apps via a secret equation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

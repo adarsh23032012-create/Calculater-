@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calc_title">Calculator</string>
+    <string name="calc_history">History</string>
+    <string name="calc_clear_history">Clear history</string>
+    <string name="calc_no_history">No calculations yet</string>
+    <string name="calc_backspace">Backspace</string>
+    <string name="calc_first_launch_hint">Vault ready · Enter 1234+0 and tap =</string>
+    <string name="calc_dismiss_hint">Dismiss hint</string>
+    <string name="calc_error">Error</string>
+
+    <string name="setup_title">Set Secret Password</string>
+    <string name="setup_subtitle">Choose a PIN or math equation. After setup, this app transforms into a Calculator—enter your password and tap = to open your hidden home screen.</string>
+    <string name="setup_enter_label">Secret Password / Equation</string>
+    <string name="setup_confirm_label">Confirm Password / Equation</string>
+    <string name="setup_cta">Set Password &amp; Transform</string>
+
+    <string name="vault_title">Private Home</string>
+    <string name="vault_lock_now">Lock vault</string>
+    <string name="vault_settings">Vault settings</string>
+    <string name="vault_aes_badge">AES-256-GCM</string>
+    <string name="vault_hide_apps_cta">Hide Apps</string>
+    <string name="vault_empty_title">Your Private Home is Empty</string>
+    <string name="vault_empty_subtitle">Select installed apps to encrypt their records with Android Keystore AES-256 and launch them privately from this hidden home screen.</string>
+    <string name="vault_search_placeholder">Search hidden apps…</string>
+    <string name="vault_launch_app">Open</string>
+    <string name="vault_unhide_app">Unhide</string>
+    <string name="vault_edit_cloak">Cloak &amp; Note</string>
+    <string name="vault_system_app_info">App Info</string>
+
+    <string name="picker_title">Hide &amp; Encrypt Apps</string>
+    <string name="picker_search_placeholder">Search installed apps…</string>
+    <string name="picker_filter_all">All</string>
+    <string name="picker_filter_user">Downloaded</string>
+    <string name="picker_filter_system">System</string>
+    <string name="picker_encrypt_action">Encrypt &amp; Hide (%1$d)</string>
+    <string name="picker_already_hidden">Encrypted in Vault</string>
+
+    <string name="settings_title">Vault Security</string>
+    <string name="settings_change_equation">Secret Unlock Equation</string>
+    <string name="settings_stealth_mode">Stealth Calculator Mode</string>
+    <string name="settings_auto_lock">Auto-Lock on Background</string>
+    <string name="settings_wipe_vault">Wipe Encrypted Vault</string>
+    <string name="back">Back</string>
+</resources>
